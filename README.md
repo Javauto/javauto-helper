@@ -2,7 +2,7 @@
 
 **Javauto Helper** exists to simplify the process of finding mouse coordinates and pixel colors. 
 
- Get the latest version of Javauto Helper and run **$ javauto-helper.jar** to open the GUI window.
+ Get the latest version of [Javauto Helper](https://github.com/Javauto/javauto-helper/releases/tag/v1.0.0) and run **$ javauto-helper.jar** to open the GUI window.
  
  [![Build Status](https://travis-ci.org/Javauto/javauto-helper.svg)](https://travis-ci.org/Javauto/javauto-helper)
 
