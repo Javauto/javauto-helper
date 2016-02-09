@@ -1,4 +1,4 @@
-# Javauto Helper
+![alt tag](https://cloud.githubusercontent.com/assets/3797402/12898899/c04d2f5c-ce8d-11e5-96ad-0d35c37a9f9a.png)
 
 **Javauto Helper** exists to simplify the process of finding mouse coordinates and pixel colors. 
 
